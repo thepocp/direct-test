@@ -1,0 +1,55 @@
+{
+    "targets": [
+        {
+            "ad_units": ["interstitial_preroll", "interstitial", "rewarded"],
+            "platforms": ["desktop", "ios", "android"],
+            "ad_format": "video",
+            "campaigns": [
+                {
+                    "campaign_id": "money",
+                    "creatives": [
+                        {
+                            "creative_url": "https://github.com/thepocp/direct-test/raw/refs/heads/main/creatives/videos/money.mp4",
+                            "click_url": "",
+                            "impression_tracking_url": ""
+                        }
+                    ]
+                },
+                {
+                    "campaign_id": "tools",
+                    "creatives": [
+                        {
+                            "creative_url": "https://github.com/thepocp/direct-test/raw/refs/heads/main/creatives/videos/tweezers.mp4",
+                            "click_url": "",
+                            "impression_tracking_url": ""
+                        },
+                        {
+                            "creative_url": "https://github.com/thepocp/direct-test/raw/refs/heads/main/creatives/videos/screwdriver.mp4",
+                            "click_url": "",
+                            "impression_tracking_url": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ad_units": ["sidebar", "sidebar_bottom"],
+            "platforms": ["desktop", "ios", "android"],
+            "ad_format": "banner",
+            "campaigns": [
+                {
+                    "campaign_id": "advertiser_banner_001",
+                    "creatives": [
+                        {
+                            "creative_url": "",
+                            "click_url": "",
+                            "impression_tracking_url": "",
+                            "width": 300,
+                            "height": 300
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
