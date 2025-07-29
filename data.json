@@ -1,56 +1,95 @@
 {
-    "targets": [
+    "data": [
         {
-            "ad_units": ["interstitial_preroll", "interstitial", "rewarded"],
-            "platforms": ["desktop", "ios", "android"],
-            "campaigns": [
+            "ad_units": [
+                "interstitial_preroll",
+                "interstitial",
+                "rewarded"
+            ],
+            "platforms": [
+                "desktop",
+                "ios",
+                "android"
+            ],
+            "campaign_id": "money",
+            "creatives": [
                 {
-                    "campaign_id": "money",
-                    "creatives": [
-                        {
-                            "format": "video",
-                            "creative_url": "https://github.com/thepocp/direct-test/raw/refs/heads/main/creatives/videos/money.mp4",
-                            "click_url": "",
-                            "impression_tracking_url": "",
-                            "non_skippable": true
-                        }
-                    ]
-                },
-                {
-                    "campaign_id": "tools",
-                    "creatives": [
-                        {
-                            "format": "video",
-                            "creative_url": "https://github.com/thepocp/direct-test/raw/refs/heads/main/creatives/videos/tweezers.mp4",
-                            "click_url": "",
-                            "impression_tracking_url": ""
-                        },
-                        {
-                            "format": "video",
-                            "creative_url": "https://github.com/thepocp/direct-test/raw/refs/heads/main/creatives/videos/screwdriver.mp4",
-                            "click_url": "",
-                            "impression_tracking_url": ""
-                        }
-                    ]
+                    "format": "video",
+                    "creative_url": "https://github.com/thepocp/direct-test/raw/refs/heads/main/creatives/videos/money.mp4",
+                    "click_url": "",
+                    "impression_tracking_url": "",
+                    "non_skippable": true
                 }
             ]
         },
         {
-            "ad_units": ["sidebar", "sidebar_bottom"],
-            "platforms": ["desktop", "ios", "android"],
-            "campaigns": [
+            "ad_units": [
+                "interstitial_preroll",
+                "interstitial",
+                "rewarded"
+            ],
+            "platforms": [
+                "desktop",
+                "ios",
+                "android"
+            ],
+            "campaign_id": "tools",
+            "creatives": [
                 {
-                    "campaign_id": "advertiser_banner_001",
-                    "creatives": [
-                        {
-                            "ad_format": "banner",
-                            "creative_url": "",
-                            "click_url": "",
-                            "impression_tracking_url": "",
-                            "width": 300,
-                            "height": 300
-                        }
-                    ]
+                    "format": "video",
+                    "creative_url": "https://github.com/thepocp/direct-test/raw/refs/heads/main/creatives/videos/tweezers.mp4",
+                    "click_url": "",
+                    "impression_tracking_url": ""
+                },
+                {
+                    "format": "video",
+                    "creative_url": "https://github.com/thepocp/direct-test/raw/refs/heads/main/creatives/videos/screwdriver.mp4",
+                    "click_url": "",
+                    "impression_tracking_url": ""
+                }
+            ]
+        },
+        {
+            "ad_units": [
+                "sidebar",
+                "sidebar_bottom"
+            ],
+            "platforms": [
+                "desktop",
+                "ios",
+                "android"
+            ],
+            "campaign_id": "1",
+            "creatives": [
+                {
+                    "ad_format": "banner",
+                    "creative_url": "https://raw.githubusercontent.com/thepocp/direct-test/refs/heads/main/creatives/images/1.webp",
+                    "click_url": "",
+                    "impression_tracking_url": "",
+                    "width": 400,
+                    "height": 533
+                }
+            ]
+        },
+        {
+            "ad_units": [
+                "sidebar",
+                "sidebar_bottom"
+            ],
+            "platforms": [
+                "desktop",
+                "ios",
+                "android"
+            ],
+            "campaign_id": "2",
+            "creatives": [
+                {
+                    "ad_format": "banner",
+                    "creative_url": "https://raw.githubusercontent.com/thepocp/direct-test/refs/heads/main/creatives/images/2.webp",
+                    "click_url": "",
+                    "impression_tracking_url": "",
+                    "width": 533,
+                    "height": 400
                 }
             ]
         }
