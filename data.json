@@ -64,7 +64,7 @@
                 {
                     "ad_format": "banner",
                     "creative_url": "https://raw.githubusercontent.com/thepocp/direct-test/refs/heads/main/creatives/images/1.webp",
-                    "click_url": "",
+                    "click_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
                     "impression_tracking_url": "",
                     "width": 400,
                     "height": 533
@@ -86,7 +86,7 @@
                 {
                     "ad_format": "banner",
                     "creative_url": "https://raw.githubusercontent.com/thepocp/direct-test/refs/heads/main/creatives/images/2.webp",
-                    "click_url": "",
+                    "click_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
                     "impression_tracking_url": "",
                     "width": 533,
                     "height": 400
