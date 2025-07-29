@@ -73,8 +73,7 @@
         },
         {
             "ad_units": [
-                "sidebar",
-                "sidebar_bottom"
+                "leaderboard"
             ],
             "platforms": [
                 "desktop",
