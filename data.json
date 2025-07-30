@@ -16,8 +16,8 @@
                 {
                     "format": "video",
                     "creative_url": "https://github.com/thepocp/direct-test/raw/refs/heads/main/creatives/videos/money.mp4",
-                    "click_url": "",
-                    "impression_tracking_url": "",
+                    "click_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+                    "impression_tracking_url": "https://google.com/?q=money",
                     "non_skippable": true
                 }
             ]
@@ -38,14 +38,14 @@
                 {
                     "format": "video",
                     "creative_url": "https://github.com/thepocp/direct-test/raw/refs/heads/main/creatives/videos/tweezers.mp4",
-                    "click_url": "",
-                    "impression_tracking_url": ""
+                    "click_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+                    "impression_tracking_url": "https://google.com/?q=tools1"
                 },
                 {
                     "format": "video",
                     "creative_url": "https://github.com/thepocp/direct-test/raw/refs/heads/main/creatives/videos/screwdriver.mp4",
-                    "click_url": "",
-                    "impression_tracking_url": ""
+                    "click_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+                    "impression_tracking_url": "https://google.com/?q=tools2"
                 }
             ]
         },
@@ -65,7 +65,7 @@
                     "format": "banner",
                     "creative_url": "https://raw.githubusercontent.com/thepocp/direct-test/refs/heads/main/creatives/images/1.webp",
                     "click_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-                    "impression_tracking_url": "",
+                    "impression_tracking_url": "https://google.com/?q=11",
                     "width": 400,
                     "height": 533
                 }
@@ -86,7 +86,7 @@
                     "format": "banner",
                     "creative_url": "https://raw.githubusercontent.com/thepocp/direct-test/refs/heads/main/creatives/images/2.webp",
                     "click_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-                    "impression_tracking_url": "",
+                    "impression_tracking_url": "https://google.com/?q=22",
                     "width": 533,
                     "height": 400
                 }
