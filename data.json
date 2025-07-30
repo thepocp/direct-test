@@ -66,29 +66,16 @@
                     "creative_url": "https://raw.githubusercontent.com/thepocp/direct-test/refs/heads/main/creatives/images/1.webp",
                     "click_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
                     "impression_tracking_url": "https://google.com/?q=11",
-                    "width": 400,
-                    "height": 533
-                }
-            ]
-        },
-        {
-            "ad_units": [
-                "leaderboard"
-            ],
-            "platforms": [
-                "desktop",
-                "ios",
-                "android"
-            ],
-            "campaign_id": "22",
-            "creatives": [
+                    "width": 300,
+                    "height": 300
+                },
                 {
                     "format": "banner",
                     "creative_url": "https://raw.githubusercontent.com/thepocp/direct-test/refs/heads/main/creatives/images/2.webp",
                     "click_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
                     "impression_tracking_url": "https://google.com/?q=22",
-                    "width": 533,
-                    "height": 400
+                    "width": 300,
+                    "height": 300
                 }
             ]
         }
