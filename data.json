@@ -18,7 +18,7 @@
                     "creative_url": "https://github.com/thepocp/direct-test/raw/refs/heads/main/creatives/videos/money.mp4",
                     "click_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
                     "impression_tracking_url": "https://google.com/?q=money",
-                    "non_skippable": true
+                    "skippable": false
                 }
             ]
         },
@@ -39,13 +39,15 @@
                     "format": "video",
                     "creative_url": "https://github.com/thepocp/direct-test/raw/refs/heads/main/creatives/videos/tweezers.mp4",
                     "click_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-                    "impression_tracking_url": "https://google.com/?q=tools1"
+                    "impression_tracking_url": "https://google.com/?q=tools1",
+                    "skippable": true
                 },
                 {
                     "format": "video",
                     "creative_url": "https://github.com/thepocp/direct-test/raw/refs/heads/main/creatives/videos/screwdriver.mp4",
                     "click_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-                    "impression_tracking_url": "https://google.com/?q=tools2"
+                    "impression_tracking_url": "https://google.com/?q=tools2",
+                    "skippable": true
                 }
             ]
         },
